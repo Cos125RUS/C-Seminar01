@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int x = 4, res;
+
+Console.Write("x = ");
+
+res = x * x;
+
+Console.Write("x^2 = ");
+Console.Write(res);
